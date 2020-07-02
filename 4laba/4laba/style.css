@@ -1,0 +1,85 @@
+body{
+	
+	background: #FFFFFF;
+}
+.main{
+	margin: 0px auto;
+	width: 75%;
+	background: #F7F6F5;
+	border-top-left-radius: 2.604167%;
+	border-top-right-radius: 2.604167%;
+	border-bottom-right-radius: 2.604167%;
+	border-bottom-left-radius: 2.604167%;
+}
+.content{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.hr{
+	text-align: justify;
+}
+#upper{
+	height: 200px;
+	position: relative;
+}
+.pic{
+	position: absolute;
+	top: 40%;
+	left: 10.416667%;
+	height: 25%;
+	width: 15%;
+}
+.pict{
+	position: absolute;
+	top: 5%;
+	right: 12%;
+	height: 75%;
+	width: 15%;
+}
+.button1 
+{
+  display:inline-block;
+width: 20%;
+  color: red;
+  height: 2.5em;
+  line-height: 2.5em;
+  margin: 10px 0px 50px 10px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 -1px 1px #808080;
+  color: white;
+
+  border: 0.104167% solid #808080;
+  border-radius: 0.260417%;
+  box-shadow: 0 0 0 60px rgba(0,0,0,0) inset, .1em .1em .2em #808080;
+  background: linear-gradient(red, #808080 48%, #808080 52%, red);
+}
+.button1:active 
+{
+  top: .1em;
+  left: .1em;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
+}
+#pics-bottom{
+	margin-left: 15%;
+	margin-right: 10%;
+}
+.pics{
+	width: 24%;
+	height: 50%;
+	position: relative;
+}
+.fot{
+	height: 50px;
+	position: relative;
+}
+.fot_tel{
+	position: absolute;
+	bottom: 0%;
+	left: 2%;
+}
+.fot_mail{
+	position: absolute;
+	bottom:0%;
+	right: 2%;
+}
